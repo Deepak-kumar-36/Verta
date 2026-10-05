@@ -1,4 +1,4 @@
-# VERTA
+# Verta
 
 ### Automated 3D Vertical Property Mapping from 2D Building Plans
 
@@ -24,7 +24,7 @@ However, modern buildings contain multiple vertically stacked property units:
 
 A conventional 2D parcel boundary cannot adequately represent these vertically separated property units.
 
-**3D ULPIN** addresses this problem by converting a 2D building/floor plan into a structured 3D representation of individual property units.
+**Verta** addresses this problem by converting a 2D building/floor plan into a structured 3D representation of individual property units.
 
 ```text
 2D Floor Plan
@@ -80,7 +80,7 @@ The project demonstrates a way to represent these spaces as structured 3D proper
 
 # Solution
 
-3D ULPIN takes a 2D floor plan and converts it into a vertically structured property model.
+Verta takes a 2D floor plan and converts it into a vertically structured property model.
 
 The prototype performs:
 
@@ -345,7 +345,7 @@ Users can inspect:
 # Project Structure
 
 ```text
-3d-ulpin/
+Verta/
 │
 ├── frontend/
 │
