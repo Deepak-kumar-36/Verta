@@ -1,4 +1,4 @@
-# 3D ULPIN
+# VERTA
 
 ### Automated 3D Vertical Property Mapping from 2D Building Plans
 
